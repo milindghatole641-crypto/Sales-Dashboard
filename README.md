@@ -51,3 +51,7 @@ Top contributors:
 * Storage – 272K
 * Appliances – 210k
 
+* Images :-
+<img width="1331" height="746" alt="Screenshot 2026-01-15 144545" src="https://github.com/user-attachments/assets/b281948c-d657-4e4d-b599-2b1dbf46035b" />
+<img width="1920" height="1080" alt="Sales Dash SS 2" src="https://github.com/user-attachments/assets/e5d45b49-77a9-45e3-bd71-70916402eee1" />
+
