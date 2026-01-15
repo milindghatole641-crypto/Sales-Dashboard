@@ -17,8 +17,6 @@ This Sales Dashboard is designed in Power BI to monitor and analyze overall sale
 * Total Orders: 4,117
 * Total Products: 1,810
 
-These KPIs give a quick snapshot of the company’s overall business performance.
-
 📈 Dashboard Analysis & Insights
 
 1️⃣ Sales by Ship Mode
@@ -28,7 +26,7 @@ These KPIs give a quick snapshot of the company’s overall business performance
 
 2️⃣ Sales by Country
 * France (25.96%) is the top contributor to sales
-* Followed by Germany (20.81%)**, United Kingdom (17.91%), and Italy
+* Followed by Germany (20.81%), United Kingdom (17.91%), and Italy
 * Sales are mainly concentrated in European countries
 
 3️⃣ Category-wise Sales Count
@@ -43,7 +41,7 @@ These KPIs give a quick snapshot of the company’s overall business performance
 
 5️⃣ Sales & Average Profit by Sub-Category
 * Copiers and Phones show high sales with strong average profit
-* Some sub-categories have good sales but **lower profit 
+* Some sub-categories have good sales but lower profit 
 
 6️⃣ Sales by Sub-Category (Treemap)
 Top contributors:
